@@ -1,4 +1,4 @@
-
+# find jupyter notebook here: https://github.com/TripLLL/py_sowi/blob/master/homework/homework_1.py.ipynb
 # coding: utf-8
 
 # 1) **Schreibe folgenden Satz einmal vorwärts, einmal rückwärts (und lese ihn laut vor):**
